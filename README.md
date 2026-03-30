@@ -1,5 +1,6 @@
----
 # 📋 PART 5: Summary - কোন Library কী কাজে লাগে
+
+## 📚 Core Libraries Overview
 
 | Library | প্রধান কাজ | ML/DL এ ব্যবহার | কোন Dataset এ? |
 |---------|-----------|-----------------|----------------|
@@ -9,7 +10,8 @@
 | **Seaborn** | Statistical Visualization | Correlation Heatmap, Distribution, Pair Plot | Tabular/Structured Data |
 
 ---
-### 🏆 Plot Summary:
+
+## 🏆 Plot Summary
 
 | Plot | Library | ML Use Case |
 |------|---------|-------------|
@@ -27,3 +29,5 @@
 | Regression Plot | Seaborn | Linear relationships |
 | PCA Plot | Matplotlib | Dimensionality reduction visualization |
 | Learning Curve | Matplotlib | Model performance vs data size |
+
+---
