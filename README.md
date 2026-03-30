@@ -1,4 +1,4 @@
-# 📋 PART 5: Summary - কোন Library কী কাজে লাগে
+# 📋 Summary - কোন Library কী কাজে লাগে
 
 ## 📚 Core Libraries Overview
 
